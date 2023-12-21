@@ -1,13 +1,13 @@
 [package]
-name = "algorithm"
+name = "nat"
 version = "0.1.0"
 edition = "2021"
 authors = ["dravenk <longxianwen@outlook.com>"]
-description = "Examples of various algorithms implemented in rust."
+description = "Network Address Translation."
 readme = "README.md"
-repository = "https://github.com/dravenk/algorithm/"
+repository = "https://github.com/dravenk/nat/"
 license = "MIT OR Apache-2.0"
-documentation = "https://docs.rs/algorithm"
-keywords = ["algorithm", "data-structure", "leetcode", "interview"]
+documentation = "https://docs.rs/nat"
+keywords = ["nat", "data-structure","web3"]
 
 [dependencies]
